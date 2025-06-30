@@ -1,0 +1,7 @@
+ipykernel
+openai
+python-dotenv
+pandas
+numpy
+openpyxl
+# there are definitely a lot missing here...
