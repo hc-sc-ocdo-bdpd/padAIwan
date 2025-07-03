@@ -165,5 +165,6 @@ datasets/
 all_class_files/prompts/
 raw_data/
 all_class_files/outputs/
+all_class_files/outputs_/
 all_class_files/outputs_v0/
 2_class_files/outputs/
