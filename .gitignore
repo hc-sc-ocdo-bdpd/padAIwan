@@ -164,3 +164,5 @@ cython_debug/
 datasets/
 all_class_files/prompts/
 raw_data/
+all_class_files/outputs/
+2_class_files/outputs/
