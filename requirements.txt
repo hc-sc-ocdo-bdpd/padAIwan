@@ -7,4 +7,5 @@ openpyxl
 tenacity
 matplotlib
 scikit-learn
-# there are definitely a lot missing here...
+seaborn
+jinja2
