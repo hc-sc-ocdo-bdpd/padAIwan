@@ -10,3 +10,4 @@ scikit-learn
 seaborn
 jinja2
 rapidfuzz
+tqdm
