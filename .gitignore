@@ -168,3 +168,5 @@ all_class_files/outputs/
 all_class_files/outputs_/
 all_class_files/outputs_v0/
 2_class_files/outputs/
+
+*.gguf
