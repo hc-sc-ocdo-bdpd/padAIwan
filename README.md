@@ -1,2 +1,2 @@
-# pedAIwan
+# PadAIwan
 
